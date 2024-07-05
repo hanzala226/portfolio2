@@ -123,7 +123,7 @@ line-height: 120px;
     z-index: -1;
     text-align: center;
   color: white;
-  -webkit-text-stroke: 1px black;
+  -webkit-text-stroke: 1.5px black;
   text-shadow: 8px 0px 1px black;
     letter-spacing: 10px;
     top: 18%;
